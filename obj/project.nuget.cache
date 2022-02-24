@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8VrvpDafc+DPaDIOnCMSW76+DG2ZxM2HDX+PIW7io/I6ItmHerzTQK1U+9vH3rRgNi9KMMq+dU/MwOdfQpN52w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merves\\Desktop\\Pratikler\\Degiskenler\\Degiskenler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
